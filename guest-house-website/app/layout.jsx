@@ -1,4 +1,4 @@
-import Navbar from '../../src/app/components/Navigation/navbar';
+import Navbar from '../app/components/Navigation/navbar';
 import { FaUmbrellaBeach, FaCoffee, FaConciergeBell, FaWifi, FaWhatsapp } from 'react-icons/fa';
 import { MdEmail, MdPhone, MdLocationOn, MdAccessTime } from 'react-icons/md';
 import './globals.css';
